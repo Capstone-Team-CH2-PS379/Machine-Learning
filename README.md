@@ -22,10 +22,9 @@ The repository is organized into three main folders:
 
 ### ASR-model
 
-To use the pre-trained model for speech-to-text conversion, follow the instructions in the ASR-model folder.
+To use the pre-trained model for speech-to-text conversion, follow these steps:
 
-```bash
-cd ASR-model
-# Run the Jupyter notebook
-jupyter notebook model.ipynb
+1. Open the Jupyter notebook: `ASR-model/CTC_Model.ipynb`.
+2. Run the notebook cells to load the pre-trained model and perform speech-to-text conversion.
+3. Download the model.h5 file. 
 
